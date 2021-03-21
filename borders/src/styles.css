@@ -1,0 +1,10 @@
+#box-1 {
+  background-color: darkcyan;
+  border: 3px rgb(128, 51, 0) solid;
+}
+
+#box-2 {
+  background: rgb(245, 0, 123);
+  color: white;
+  border-top: yellowgreen 5px solid;
+}
