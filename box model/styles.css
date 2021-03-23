@@ -8,6 +8,11 @@
   background: cadetblue;
   border: 2px #777 solid;
   width: 500px;
-  padding: 20px;
+  /* padding: 20px; */
+  padding: 10px 20px;
   margin: 20px;
+}
+
+.box h3 {
+  padding-bottom: 10px;
 }
